@@ -59,3 +59,5 @@ jupyter lab
 And it should normally open a window in your browser, or you can follow the link given by the terminal.
 
 ## Results
+
+![test/world-1-1.gif]

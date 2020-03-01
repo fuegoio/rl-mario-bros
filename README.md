@@ -60,4 +60,4 @@ And it should normally open a window in your browser, or you can follow the link
 
 ## Results
 
-![test/world-1-1.gif]
+![](test/world-1-1.gif)
